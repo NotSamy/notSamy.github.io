@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Sam's homepage
 description: Work in progress!
+
+
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/sam-chen-0314132b1/"
